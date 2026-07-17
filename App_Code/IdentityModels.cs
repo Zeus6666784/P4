@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
-using System.Web;
 using System;
-using P4;
+using System.Web;
 
 namespace P4
 {
