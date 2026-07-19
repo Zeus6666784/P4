@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+    <Ad>
+        <ImageUrl>Images/sun.jpg</ImageUrl>
+        <NavigateUrl>https://www.example.com</NavigateUrl>
+        <AlternateText>sunflower</AlternateText>
+        <Impressions>20</Impressions>
+        <Height>50</Height>
+        <Width>50</Width>
+    </Ad>
+    <Ad>
+        <ImageUrl>Images/sun.jpg</ImageUrl>
+        <NavigateUrl>https://www.microsoft.com</NavigateUrl>
+        <AlternateText>microsoft</AlternateText>
+        <Impressions>20</Impressions>
+        <Height>50</Height>
+        <Width>50</Width>
+    </Ad>
+</Advertisements>
