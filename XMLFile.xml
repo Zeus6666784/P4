@@ -5,15 +5,15 @@
         <NavigateUrl>https://www.example.com</NavigateUrl>
         <AlternateText>sunflower</AlternateText>
         <Impressions>20</Impressions>
-        <Height>50</Height>
-        <Width>50</Width>
+        <Height>500</Height>
+        <Width>500</Width>
     </Ad>
     <Ad>
         <ImageUrl>Images/sun.jpg</ImageUrl>
         <NavigateUrl>https://www.microsoft.com</NavigateUrl>
         <AlternateText>microsoft</AlternateText>
         <Impressions>20</Impressions>
-        <Height>50</Height>
-        <Width>50</Width>
+        <Height>500</Height>
+        <Width>500</Width>
     </Ad>
 </Advertisements>
