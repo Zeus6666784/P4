@@ -20,6 +20,8 @@
        <asp:TextBox ID="TextBox4" runat="server" TextMode="Password"></asp:TextBox>
        <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="TextBox3" ControlToValidate="TextBox4" ErrorMessage="password not match"></asp:CompareValidator>
        <br />
-       <asp:Button ID="Button1" runat="server" Text="Submit" />
+       <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click" />
+       <br />
+       <asp:Label ID="Label5" runat="server"></asp:Label>
    </div>
 </asp:Content>

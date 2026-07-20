@@ -5,7 +5,6 @@ public partial class p4_a : Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        Response.Write("Lavkush T048 ZEUS was here");
     }
 
     protected void TextBox1_TextChanged(object sender, EventArgs e)
@@ -19,9 +18,11 @@ public partial class p4_a : Page
         string course = DropDownList1.SelectedItem.Text;
         string date = Calendar1.SelectedDate.ToShortDateString();
 
-        Label1.Text = "Student Name: " + name + "<br/>" +
+        Label2.Text = "Student Name: " + name + "<br/>" +
                      "Gender: " + gender + "<br/>" +
                      "Course: " + course + "<br/>" +
-                     "Date: " + date;
+                     "Date: " + date + "<br/>" +
+                     "<br/>" +
+                     "Lavkush T048 ZEUS was here";
     }
 }
